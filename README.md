@@ -1,2 +1,1 @@
-# liaozexian.github.com
-My Personal Blog
+# My Personal Blog
